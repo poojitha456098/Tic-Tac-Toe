@@ -52,26 +52,32 @@ The game automatically checks for winning combinations or a draw and displays th
 
 ## 🗂 Folder Structure
 
+<pre>
 Tic-Tac-Toe/
 │
-├── index.html # Main HTML file
-├── style.css # Stylesheet for layout and design
-├── script.js # Game logic and interactivity
-└── README.md # Project documentation
+├── index.html   # Main HTML file
+├── style.css    # Stylesheet for layout and design
+├── script.js    # Game logic and interactivity
+└── README.md    # Project documentation
+</pre>
 
+## ⚙️ Run Locally
+
+1. Clone the repository  
+   `git clone https://github.com/poojitha456098/Tic-Tac-Toe.git`
+2. Open the folder  
+   `cd Tic-Tac-Toe`
+3. Run the game  
+   `open index.html`
+
+Start playing! 🎉
 
 ---
 
-## ⚙️ Run Locally
-```bash
-git clone https://github.com/poojitha456098/Tic-Tac-Toe.git
-cd Tic-Tac-Toe
-open index.html and Start playing! 🎉
+## 👩‍💻 Author
 
- 
-👩‍💻 Author
-Poojitha Polemoni
-💼 GitHub
+**Poojitha Polemoni**  
+💼 [GitHub](https://github.com/poojitha456098)
 
-“Every small project builds the foundation for something greater.
-Keep coding, keep learning, and keep creating.”
+> “Every small project builds the foundation for something greater.  
+> Keep coding, keep learning, and keep creating.”
